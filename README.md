@@ -1,2 +1,2 @@
 # Final
-Progetto finale per il corso di Programmazione di Interfacce, che realizza una tastiera che si può suonare tramite l'esclusivo movimento corporeo o di oggetti (per fare questo è necessario l'utilizzo della webcam).
+Project which creates a keyboard that can be played through the exclusive movement of the body or objects (to do this it is necessary to use the webcam)., held in the course of  Programmazione di Interfacce, at University of Pisa.
